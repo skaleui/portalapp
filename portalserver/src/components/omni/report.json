@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_omni_reports",
+  "info": {
+    "displayName": "Report",
+    "icon": "border-all"
+  },
+  "options": {},
+  "attributes": {
+    "info": {
+      "type": "json"
+    }
+  }
+}
